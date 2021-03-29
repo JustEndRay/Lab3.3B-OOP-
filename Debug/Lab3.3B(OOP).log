@@ -1,0 +1,4 @@
+﻿  LongLong_Public.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 3.1-3.8\Lab3.3B(OOP)\LongLong_Public.cpp(84): warning C4715: 'operator<': not all control paths return a value
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 3.1-3.8\Lab3.3B(OOP)\LongLong_Public.cpp(72): warning C4715: 'operator>': not all control paths return a value
+  Lab3.3B(OOP).vcxproj -> D:\Рабочий стол\дз\2семестр\ООП\Лаб 3.1-3.8\Lab3.3B(OOP)\Debug\Lab3.3B(OOP).exe
